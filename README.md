@@ -7,7 +7,7 @@ Optical Coherence Tomography (OCT) is a high resolution imaging technology probi
 
 Haozhe.Liu: liuhaozhest@gmail.com Post:M.S. Organization: Shenzhen University
 
-Feng.Liu: feng.liu@szu.edu.cn POST: Associate research fllow Organization:Shenzhen University
+Feng.Liu: feng.liu@szu.edu.cn POST: Associate research fellow Organization:Shenzhen University
 
 Wentian.Zhang zhangwentianml@gmail.com Post:Junior Organization:SUST
 
